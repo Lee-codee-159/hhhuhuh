@@ -1,0 +1,25 @@
+.h3tag {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 3px 3px 15px greenyellow;
+}
+.notespan{
+    font-size: 15px;
+    color: wheat;
+}
+.footerdiv{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue;
+    color:navy;
+    line-height: 2;
+    text-align: center;
+}
+canvas{
+    border:3px dotted blue;
+    border-radius: 20px;
+    box-shadow: 5px 3px 35px orchid;
+
+}
